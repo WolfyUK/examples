@@ -3,7 +3,7 @@
     "name": "with-webbrowser-redirect",
     "slug": "with-webbrowser-redirect",
     "privacy": "public",
-    "sdkVersion": "32.0.0",
+    "sdkVersion": "34.0.0",
     "version": "1.0.0",
     "orientation": "portrait",
     "primaryColor": "#cccccc",

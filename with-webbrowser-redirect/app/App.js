@@ -1,4 +1,5 @@
-import { Linking, WebBrowser } from 'expo';
+import { Linking } from 'expo';
+import * as WebBrowser from "expo-web-browser";
 import React from 'react';
 import { Button, StyleSheet, Text, View } from 'react-native';
 
