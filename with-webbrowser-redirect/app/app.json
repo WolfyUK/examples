@@ -2,7 +2,7 @@
   "expo": {
     "name": "with-webbrowser-redirect",
     "slug": "with-webbrowser-redirect",
-    "privacy": "public",
+    "privacy": "unlisted",
     "sdkVersion": "34.0.0",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -12,7 +12,11 @@
       "icon": "./assets/icons/loading.png"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tds.examples.withwebbrowserredirect"
+    },
+    "android": {
+      "package": "com.tds.examples.withwebbrowserredirect"
     },
     "scheme": "expo.examples.with-webbrowser-redirect",
     "platforms": [
