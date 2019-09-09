@@ -14,6 +14,12 @@
     "ios": {
       "supportsTablet": true
     },
-    "scheme": "expo.examples.with-webbrowser-redirect"
+    "scheme": "expo.examples.with-webbrowser-redirect",
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "description": "Expo `with-webbrowser-redirect` example for v34",
+    "githubUrl": "https://github.com/WolfyUK/examples/tree/master/with-webbrowser-redirect"
   }
 }
