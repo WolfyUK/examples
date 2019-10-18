@@ -2,8 +2,8 @@
   "expo": {
     "name": "with-webbrowser-redirect",
     "slug": "with-webbrowser-redirect",
-    "privacy": "unlisted",
-    "sdkVersion": "34.0.0",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
     "version": "1.0.0",
     "orientation": "portrait",
     "primaryColor": "#cccccc",
@@ -23,7 +23,7 @@
       "android",
       "ios"
     ],
-    "description": "Expo `with-webbrowser-redirect` example for v34",
+    "description": "Expo `with-webbrowser-redirect` example for v35",
     "githubUrl": "https://github.com/WolfyUK/examples/tree/master/with-webbrowser-redirect"
   }
 }
